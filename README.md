@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Niels-Littyburk
+- 🌱 I’m currently learning on selfhosting with Linux and Rootless Docker
+- 🏫 I'm a cyber security student
+- 💻 Use Github for personal use
