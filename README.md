@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Niels-Littyburk
-- 🌱 I’m currently learning on selfhosting with Linux
-- 🏫 I'm a cyber security student
-- 💻 Use Github for personal use
+👋 Hi, I'm @Niels-Littyburk
